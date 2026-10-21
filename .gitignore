@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+database.py
+
+*_test.*
+test_*.*
+tests/
+
+__pycache__/
