@@ -3,7 +3,7 @@
 !.env.example
 
 database.py
-
+manhattan.db
 *_test.*
 test_*.*
 tests/
